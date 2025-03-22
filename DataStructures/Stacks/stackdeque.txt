@@ -1,0 +1,1 @@
+The Deque implementation of a stack, you usually use either the front or the back. See DSA/DataStructures/Deques/
